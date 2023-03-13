@@ -25,3 +25,194 @@
    background-image: url(./images/back-img.png);
    height: 1080px;
 }
+
+@media(max-width:1280px) {
+   .line {
+      min-width: 1200px;
+      margin-left: 60px;
+   }
+
+   .day {
+      flex-wrap: wrap;
+   }
+
+   .container {
+      width: 1280px;
+      height: 1500px;
+      margin: 0 auto;
+      background-color: #0c101a;
+   }
+
+   .rasm {
+      width: 1518px;
+   }
+
+   .main {
+      background-image: none;
+      height: 1080px;
+   }
+
+   #search{
+      margin-right: 35px;
+   }
+
+   .card{
+      margin-top: 130px;
+   }
+}
+
+@media(max-width:415px) {
+   .line {
+      width: 300px;
+      margin-left: 60px;
+   }
+
+   .day {
+      flex-wrap: wrap;
+   }
+
+   .container {
+      width: 415px;
+      height: 3550px;
+      margin: 0 auto;
+      background-color: #0c101a;
+   }
+
+   .rasm {
+      width: 1518px;
+   }
+
+   .main {
+      background-image: none;
+      height: 1080px;
+   }
+
+   .soat{
+      display: block;
+   }
+
+   .mintaqa{
+      margin-left: -145px;
+   }
+
+   .hudud{
+      flex-wrap: wrap;
+   }
+
+   #search{
+      margin-right: 35px;
+   }
+
+   .time{
+      margin-top: 20px;
+      margin-left: 245px;
+   }
+
+   .card{
+      margin-top: 50px;
+   }
+}
+
+@media(max-width:376px) {
+   .line {
+      width: 300px;
+      margin-left: 30px;
+   }
+
+   .day {
+      flex-wrap: wrap;
+   }
+
+   .container {
+      width: 376px;
+      min-height: 3400px;
+      margin: 0 auto;
+      background-color: #0c101a;
+   }
+
+   .rasm {
+      width: 1518px;
+   }
+
+   .main {
+      background-image: none;
+      height: 1080px;
+   }
+
+   .soat{
+      display: block;
+   }
+
+   .mintaqa{
+      margin-left: -170px;
+   }
+
+   .hudud{
+      flex-wrap: wrap;
+   }
+
+   #search{
+      margin-right: 35px;
+   }
+
+   .time{
+      margin-top: 20px;
+      margin-left: 220px;
+   }
+
+   .card{
+      margin-top: 50px;
+   }
+}
+
+@media(max-width:360px) {
+   .line {
+      width: 300px;
+      margin-left: 30px;
+   }
+
+   .day {
+      flex-wrap: wrap;
+   }
+
+   .container {
+      width: 360px;
+      height: 3400px;
+      margin: 0 auto;
+      background-color: #0c101a;
+   }
+
+   .rasm {
+      width: 1518px;
+   }
+
+   .main {
+      background-image: none;
+      height: 1080px;
+   }
+
+   .soat{
+      display: block;
+   }
+
+   .mintaqa{
+      margin-left: -170px;
+   }
+
+   .hudud{
+      flex-wrap: wrap;
+   }
+
+   #search{
+      margin-right: 35px;
+   }
+
+   .time{
+      margin-top: 20px;
+      margin-left: 220px;
+   }
+
+   .card{
+      margin-top: 50px;
+   }
+}
