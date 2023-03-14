@@ -234,7 +234,7 @@
 
    .container {
       width: 376px;
-      min-height: 3400px;
+      height: 3400px;
       margin: 0 auto;
       background-color: #0c101a;
    }
@@ -301,11 +301,11 @@
    }
 
    .soat{
-      display: block;
+      display: inline-block;
    }
 
    .mintaqa{
-      margin-left: -170px;
+      margin-left: -230px;
    }
 
    .hudud{
@@ -318,7 +318,7 @@
 
    .time{
       margin-top: 20px;
-      margin-left: 220px;
+      margin-left: 160px;
    }
 
    .card{
